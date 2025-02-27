@@ -14,6 +14,7 @@ def google_dork(query, site=None, filetype=None, intitle=None, inurl=None, intex
         dork += f" inurl:{inurl}"
     if intext:
         dork += f" intext:{intext}"
+    return dork
 
 st.title("Dorkerator: Google Dork Generator")
 st.write("Generate Google Dorks for advanced Google searches.")
