@@ -1,6 +1,12 @@
+![Dorkerator](https://socialify.git.ci/clueNA/Dorkerator/image?font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Transparent&stargazers=1&theme=Dark)
+
 # Dorkerator: Google Dork Generator
 
 Dorkerator is a simple Streamlit application that helps you generate Google Dorks for advanced Google searches. Google Dorks are search queries that can be used to find specific information on the internet by leveraging Google's advanced search operators.
+
+## 🌐 Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dorkerator.streamlit.app/)
+
 
 ## Features
 
